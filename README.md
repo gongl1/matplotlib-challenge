@@ -9,6 +9,11 @@ Trends:
 3. For one mouse, its tumor volume is not necessarily declining with timepoint increases though its long term trend is decreasing. Testers should be more patient during testing and provide more timepoint data points.
 
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
